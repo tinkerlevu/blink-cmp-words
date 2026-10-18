@@ -9,7 +9,7 @@ Fuzzy complete words and synonyms using blink-cmp.
 1. **As a dictionary** - provides word completion with definitions and related terms
 2. **As a thesaurus** - provides synonym completion for finding alternative words
 
-It uses Princeton University's [WordNet](https://wordnet.princeton.edu/) lexical database to provide words, definitions and lexical relations.
+The database has been changed from Upstream to the [Open English Wordnet](https://en-word.net/) 2025 plus (2025-12-31) lexical database to provide words, definitions and lexical relations.
 
 [thesaurus-demo.webm](https://github.com/user-attachments/assets/96d79cc2-254d-452b-b91f-c34dcd645f8d)
 
@@ -140,7 +140,7 @@ See [here](https://wordnet.princeton.edu/documentation/wninput5wn) for more info
 This plugin uses and includes:
 
 - The [fzy-lua](https://github.com/swarn/fzy-lua) library by [swarn](https://github.com/swarn), licensed under the MIT License.
-- The WordNet 3.0 database, Copyright 2006 by Princeton University. All rights reserved. WordNet is used under the terms of the WordNet License.
+- the Open English Wordnet 2025 plus (2025-12-31) is released under the [Creative Commons Attribution (CC-BY) 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
 For licenses, see: [LICENSE](LICENSE).
 
